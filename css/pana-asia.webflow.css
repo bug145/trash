@@ -1936,7 +1936,7 @@ body {
   z-index: 1;
   height: 100vh;
   background-color: var(--black);
-  background-image: url('../images/Footer-1.jpg');
+  background-image: url('../images/Footer-1.webp');
   background-position: 100%;
   background-size: cover;
   flex-direction: column;
